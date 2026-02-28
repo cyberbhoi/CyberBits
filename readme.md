@@ -1,4 +1,4 @@
-# command line app with mongodb
+# Your Awesome Computer Science and Engineering 
 
 
-working find with local database but rewrite code with mongodb atlas cloud.
+
